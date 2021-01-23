@@ -2,9 +2,9 @@
 Project Proposal
 
 Team 2:
-Shawntell Manning
-Jenish Jariwala
-Alekya Gadiraju
+Shawntell Manning,
+Jenish Jariwala,
+Alekya Gadiraju,
 Stephen Domke
 
 Introduction:
