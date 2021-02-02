@@ -1,7 +1,6 @@
 
-<h1>Project Proposal</h1>
+<h1>Proposal</h1>
 
-<b>Team 2:</b>
 Shawntell Manning, Jenish Jariwala, Alekya Gadiraju, and Stephen Domke
 
 <b>Introduction:</b>
